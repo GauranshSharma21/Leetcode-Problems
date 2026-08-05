@@ -1,4 +1,4 @@
-# Leetcode-Problems
+# Leetcode-Solutions
 This is the leetcode problems repository  in which leetcode daily challenge problems and DSA pattern problems will be submitted by me!
 
 <!---LeetCode Topics Start-->
