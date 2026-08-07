@@ -6,6 +6,7 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [3731-find-missing-elements](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
