@@ -7,6 +7,7 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [3731-find-missing-elements](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -48,4 +49,5 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
